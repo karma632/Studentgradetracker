@@ -1,18 +1,18 @@
-## Getting Started
+# Student Grade Tracker
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Overview
+This is a **Java-based Student Grade Tracker** project built using **Object-Oriented Programming (OOP)** principles.  
+It allows you to:
 
-## Folder Structure
+- Add multiple students
+- Track their grades
+- Calculate **average, highest, and lowest** grades
+- Display a formatted **report** of all students
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Features
+- **OOP Structure**: Separate classes for `Student` and `GradeManager`
+- **Dynamic storage** using `ArrayList`
+- Easy **user input** via console
+- Clean **report display** 
